@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:García;Carlos;;;
+FN:Carlos García
+ORG:Mi Negocio
+TEL;TYPE=CELL:+521234567890
+EMAIL:correo@ejemplo.com
+END:VCARD
